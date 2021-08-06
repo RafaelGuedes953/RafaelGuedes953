@@ -5,7 +5,7 @@
 - 🔭 Estou trabalhando atualmente em desenvolvimento web com Wordpress
 - 🌱 Estou aprendendo atualmente Linguagem R e Python
 - 📫 Meu site: [Criativo Web Design](https://criativowebdesign.com.br)
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/RafaelGuedes953">
