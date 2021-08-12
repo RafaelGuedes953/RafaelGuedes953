@@ -31,8 +31,8 @@
 ###
   
 <div>
+  <img src="https://komarev.com/ghpvc/?username=RafaelGuedes953&color=green" alt="RafaelGuedes953"/>
   <img alt="GitHub" src="https://img.shields.io/github/followers/RafaelGuedes953.svg?style=social&label=Seguir&maxAge=2592000">
-  <img align="center" src="https://komarev.com/ghpvc/?username=RafaelGuedes953&color=green" alt="RafaelGuedes953"/>
   <a href = "mailto:rafaelguedes.ufam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelguedes953/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
