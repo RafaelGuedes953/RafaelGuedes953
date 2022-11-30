@@ -1,11 +1,11 @@
 ## Olá, eu sou Rafael Guedes 
 ### E esse é o meu perfil GitHub 👋
 
-- 👨‍🎓 Graduação em andamento: Engenharia de Software na [UFAM](https://ufam.edu.br/)
-- 🔭 Estou trabalhando atualmente em desenvolvimento web com Wordpress
-- 🌱 Estou aprendendo atualmente Linguagem R e Python
+- 👨‍🎓 Graduação concluída: [Engenharia de Software](https://icet.ufam.edu.br/ensino/graduacao/engenharia-de-software/) na [UFAM](https://ufam.edu.br/)
+- 🔭 Estou trabalhando atualmente em desenvolvimento de soluções relacionadas a Inteligência Artificial
+- 📫 Perfil Beecrowd (UriJudge): [Rafael Guedes](https://www.beecrowd.com.br/judge/pt/profile/292995)
+- 🌱 Estou me aperfeiçoando na linguagem Python
 - 📫 Meu site: [Criativo Web Design](https://criativowebdesign.com.br)
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/RafaelGuedes953">
