@@ -5,7 +5,7 @@
 - 🔭 Estou trabalhando atualmente em desenvolvimento de soluções relacionadas a Inteligência Artificial
 - 📫 Perfil Beecrowd (UriJudge): [Rafael Guedes](https://www.beecrowd.com.br/judge/pt/profile/292995)
 - 🌱 Estou me aperfeiçoando na linguagem Python
-- 📫 Meu site: [Criativo Web Design](https://criativowebdesign.com.br)
+- 📫 Meu site: [Criativo Web Design](https://criativowebdesign.com)
 
 <div>
   <a href="https://github.com/RafaelGuedes953">
