@@ -37,6 +37,9 @@
   <a href="https://www.linkedin.com/in/rafaelguedes953/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
+<!--TH_Stats:start-->
+<!--TH_Stats:end-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelGuedes953/RafaelGuedes953/output/github-contribution-grid-snake-dark.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/RafaelGuedes953/RafaelGuedes953/output/github-contribution-grid-snake.svg">
