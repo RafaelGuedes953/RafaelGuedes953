@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/RafaelGuedes953">
-    <img height="150em" alt="Estatísticas do GitHub" src="https://SEU-DEPLOY.vercel.app/api?username=RafaelGuedes953&hide=stars&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-    <img height="150em" alt="Linguagens mais usadas" src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=RafaelGuedes953&layout=compact&langs_count=7&theme=vue"/>
+    <img height="150em" alt="Estatísticas do GitHub" src="https://github-readme-stats-rgs.vercel.app/api?username=RafaelGuedes953&hide=stars&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+    <img height="150em" alt="Linguagens mais usadas" src="https://github-readme-stats-rgs.vercel.app/api/top-langs/?username=RafaelGuedes953&layout=compact&langs_count=7&theme=vue"/>
   </a>
 </div>
 
