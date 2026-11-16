@@ -1,0 +1,37 @@
+name: Update Trailhead Stats
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - uses: nabondance/trailhead-stats@v2
+        with:
+          trailhead-username: "rafaguedes"
+          display-type: "card"
+          dark-style: "dark"
+          # Skills
+          show-skill: "visible"
+          show-skill-number: "5"
+          # Certificações (você não tem)
+          show-certification: "hidden"
+          show-certification-latest: "hidden"
+          # Superbadges em destaque
+          show-superbadge: "icon"
+          show-superbadge-latest: "visible"
+          # Badges só como número, com o mais recente
+          show-badge: "number"
+          show-badge-latest: "visible"
+          # Itens menos relevantes ocultos
+          show-event-badge: "hidden"
+          show-event-badge-latest: "hidden"
+          show-stamp: "hidden"
+          show-stamp-latest: "hidden"
